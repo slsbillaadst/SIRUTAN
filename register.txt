@@ -1,0 +1,3 @@
+Halaman Register :
+1. Daftar Akun dgn username dan password
+2. Klik button sign up
